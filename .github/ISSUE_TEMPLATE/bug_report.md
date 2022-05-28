@@ -20,8 +20,9 @@ Steps to reproduce the issue, with screenshots (if applicable):
 3. See error in Line '...'
 
 **System Information:**
- - Hardware:
- - Software:
+- Hardware:
+- Operating System:
+- Software:
 
 **Possible Solutions**
 Describe potential ways to address the issue.
