@@ -65,7 +65,7 @@ decisions when appropriate.
 
 This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official email address,
+Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
@@ -143,3 +143,22 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+The Contributor Covenant is licensed under the
+[CC BY 4.0 License](https://github.com/EthicalSource/contributor_covenant/blob/release/LICENSE.md).
+
+The following modifications have been made to the Contributor Covenant,
+version 2.0 to produce this Adapted Material:
+- The [Terminology](#terminology) section was added to clarify terms used
+  throughout the document.
+- Additional examples of unacceptable behavior were added to the
+  [Our Standards](#our-standards) section.
+- A contact method for submitting Code of Conduct violations was added
+  to the [Enforcement](#enforcement) section.
+- The [Enforcement Guidelines](#enforcement-guidelines) section was reworded.
+- The Community Impact description for a [Permanent Ban](#4-permanent-ban)
+  was revised to indicate that a severe enough Code of Conduct violation can
+  be grounds for a permanent ban, even if it only occurs once.
+- This [Attribution](#attribution) section was modified to add a link to the
+  Contributor Covenant license and this list of changes to the original
+  Contributor Covenant.
