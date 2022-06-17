@@ -1,4 +1,4 @@
-# Contributing Guidelines
+# Contribution Guidelines
 
 Thanks for your interest in contributing!  This page summarizes important guidelines for _how_ to contribute to maximize the value of your work to the community.  If you are developing code, following these guidelines will provide the best chances that your work will be approved and added to the codebase.
 
