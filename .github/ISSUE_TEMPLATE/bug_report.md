@@ -7,28 +7,41 @@ assignees: ''
 
 ---
 
-**Issue**
+## Issue
+
 A clear and concise description of what you expected to happen and what the bug is.
 
-**Underlying Cause**
+
+## Underlying Cause
+
 An explanation of what features of the code architecture are the root cause of the issue, if known.
 
-**Steps to Reproduce Bug**
+
+## Steps to Reproduce Bug
+
 Steps to reproduce the issue, with screenshots (if applicable):
 1. Run '...' with attached inputs
 2. View output file '...'
 3. See error in Line '...'
 
-**System Information:**
+
+## System Information
+
 - Hardware:
 - Operating System:
 - Software:
 
-**Possible Solutions**
+
+## Possible Solutions
+
 Describe potential ways to address the issue.
 
-**Task List**
+
+## Task List
+
 - [ ] List of proposed steps to resolve the issue.
 
-**Additional Notes**
+
+## Additional Notes
+
 Add any other context about the problem here.
