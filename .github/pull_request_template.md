@@ -19,7 +19,7 @@ applicable, please remove them.
 - Describe steps taken to ensure functionality and consistency of results with previous code versions
 
 ## Issues Closed
-- Closes ## -- reason why issue is resolved
+- Closes ##
 
 ## Notes and References
 - Additional information or external sources that were used in code development
