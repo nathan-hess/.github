@@ -14,12 +14,7 @@ A clear and concise description of what the problem is.
 
 ## Possible Solutions
 
-A clear and concise description of potential ways to resolve the problem.
-
-
-## Task List
-
-- [ ] List of proposed steps to resolve the issue.
+A clear and concise description of potential ways to resolve the problem (if known).
 
 
 ## Additional Notes
