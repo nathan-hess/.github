@@ -18,7 +18,7 @@ applicable, please remove them.
 ## Tests and Validation
 - Describe steps taken to ensure functionality and consistency of results with previous code versions
 
-## Issues Closed
+## Closed or Relevant Issues
 - Closes ##
 
 ## Notes and References
